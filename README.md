@@ -1,5 +1,8 @@
 # Linkedin PDF Profile Parser
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/0aa1ad4bb5a7e63a4bfb/maintainability)](https://codeclimate.com/github/silasyudi/Linkedin-PDF-Profile-Parser/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/0aa1ad4bb5a7e63a4bfb/test_coverage)](https://codeclimate.com/github/silasyudi/Linkedin-PDF-Profile-Parser/test_coverage)
+
 ## Presentation
 
 This software export LinkedIn profile PDF like this...
