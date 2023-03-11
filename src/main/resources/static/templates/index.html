@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LinkedIn PDF Profile Parser</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/semantic.min.css"/>
+</head>
+<body>
+<section class="ui basic segment">
+    <section class="ui container grid">
+        <section class="four column">
+            <div class="ui icon center aligned header">
+                <i class="pdf file outline icon"></i>
+                LinkedIn PDF Profile Parser
+            </div>
+
+            <form class="ui form" method="post" action="/parse/multipart" enctype="multipart/form-data">
+                <div class="ui icon message">
+                    <i class="upload icon"></i>
+                    <div class="content">
+                        <div class="header">
+                            Upload
+                        </div>
+                        <p>Add a LinkedIn profile PDF file.</p>
+                    </div>
+                </div>
+
+                <div class="field">
+                    <input type="file" name="file"/>
+                </div>
+
+                <div class="field">
+                    <button class="ui primary button" type="submit">Send</button>
+                </div>
+            </form>
+        </section>
+    </section>
+</section>
+<script src="/assets/js/jquery-3.4.1.min.js"></script>
+<script src="/assets/js/semantic.min.js"></script>

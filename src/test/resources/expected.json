@@ -1,0 +1,149 @@
+{
+  "name": "Silas Yudi",
+  "subtitle": "Software Architect | Senior Java Developer | Senior PHP Developer",
+  "location": "João Pessoa, Paraíba, Brazil",
+  "summary": "I am a Senior Java Developer and Senior PHP Developer. I love unit testing, refactoring, code review, and pair programming. I have already worked as a software architect, senior developer, technology lead, and scrum master. Also, I have a Master's Degree in Informatics (Computer Science area of study) and a Bachelor's Degree in Computer Science, both from the Federal University of Paraíba (Brazil). Some projects I have worked on: - Contributed to the Java unit test reference documentation. I refactored some microservices for proof of concept and they presented 60% of performance improvement in Jenkins. - Built marketplace from scratch for Livelo (biggest credit card reward program in Brazil, with 20 million users), using Java, Spring Boot, and RabbitMQ. - Integrated a management system for business registration of 11 Brazilian States (representing 50 million people) with several Brazilian government agencies, using PHP and Symfony. - Collaborated on the development of integration of Anymarket (biggest marketplace hub in Brazil) with Mercado Livre (biggest marketplace in Latin America) using Java and Spring Boot. - Created a prototype mobile app for blind people to be able to use augmented reality systems as a master's thesis, using Java and Android library. - Developed a system for managing chemical molecules with innovative features to accelerate scientific research at the Federal University of Paraíba, using Java and Javascript.",
+  "experiences": [
+    {
+      "company": "SAP",
+      "title": "Senior Java Developer",
+      "period": {
+        "start": "October 2022",
+        "end": "January 2023"
+      },
+      "location": "Remote",
+      "description": "- Improved the project's unit test suite to improve coverage and readability using JUnit 5 and Mockito. Increased from 50% to 75% coverage in one month. - Developed an integration to fetch strategic data from an external database using Java."
+    },
+    {
+      "company": "Compass.uol",
+      "title": "Software Architect at Livelo",
+      "period": {
+        "start": "July 2022",
+        "end": "October 2022"
+      },
+      "location": "Remote",
+      "description": "- Livelo is the biggest credit card reward program in Brazil, with 20 million users. - Creating an application to support managers' decisions about building developer teams based on candidates' hard skills, using Python and Flask. - Contributed to the Java unit test reference documentation. Microservices used as proof of concept presented 60% of performance improvement in Jenkins."
+    },
+    {
+      "company": "Compass.uol",
+      "title": "Senior Java Developer at Livelo",
+      "period": {
+        "start": "December 2021",
+        "end": "July 2022"
+      },
+      "location": "Remote",
+      "description": "- Developed Livelo’s marketplace from scratch, using Java and Spring Boot to build 8 REST Microservices and RabbitMQ to process a huge amount of information. - Led efforts to reach over 90% unit test coverage on all microservices. - Collaborated in the creation of a sandbox environment for testing by customers, using Axway for gateway control and Jenkins for deployment."
+    },
+    {
+      "company": "Vox Tecnologia",
+      "title": "Tech Lead / Scrum Master",
+      "period": {
+        "start": "September 2021",
+        "end": "December 2021"
+      },
+      "location": "Remote",
+      "description": "- Led a team of 9 people for SIGFácil support and evolution, using Scrum methodology. SIGfácil is a management system for business registration, used by 11 Brazilians State Department of Commerce, impacting 50 million people. - Improved code quality by the implementation of automated test coverage targets with PHPUnit and GitlabCI, reducing issues occurrences on production by 80%. - Reached the mark of 4 clients in the top 5 Brazilian States where it is faster to open a business."
+    },
+    {
+      "company": "Vox Tecnologia",
+      "title": "Senior PHP Developer",
+      "period": {
+        "start": "April 2021",
+        "end": "December 2021"
+      },
+      "location": "Remote",
+      "description": "- Implemented the digital signature module for sign Accounting Books, accelerating the registration procedure of those by dispensing the notarial authentication. - Integrated the digital signature module with the GOV.BR system (public system of digital signature), removing the need for the customer to purchase a digital signature token. - Built the integration of the SIGFácil with the COAF (Council for Financial Activities Control) to facilitate the investigation of financial crimes."
+    },
+    {
+      "company": "ANYMARKET",
+      "title": "Java Developer",
+      "period": {
+        "start": "October 2020",
+        "end": "April 2021"
+      },
+      "location": "Remote",
+      "description": "- Collaborated on the development of integration of Anymarket (biggest marketplace hub in Brazil) with Mercado Livre (biggest marketplace in Latin America) using Java and Spring Boot. Reached 100% availability during Black Friday. - Created in Java and AngularJS the Promotions Center to facilitate the management of promotions and discounts and automatically send product price updates to Mercado Livre. - Developed in Java and AngularJS the Best Price feature, to allow sellers to receive financing offers from Mercado Livre to reduce the price of their products. - Conquered the seal of Mercado Livre Platinum by quality and quantity of implemented features."
+    },
+    {
+      "company": "Vox Tecnologia",
+      "title": "PHP Developer",
+      "period": {
+        "start": "May 2019",
+        "end": "September 2020"
+      },
+      "location": "João Pessoa, Paraíba, Brazil",
+      "description": "- Developed, using PHP and Symfony, the Automated Approval Process feature, based on requirements established by each State Department of Commerce, accelerating the approval to open new business in 11 Brazilian States. - Implemented the digital process module and digital signature of processes module in 11 State Department of Commerce, replacing printed procedures, using PHP, Symfony, Java and Spring Boot. That accelerated the procedures, reduced costs for customers and made difficult fraud occurrences."
+    },
+    {
+      "company": "Vox Tecnologia",
+      "title": "Support Analyst",
+      "period": {
+        "start": "January 2019",
+        "end": "April 2019"
+      },
+      "location": "João Pessoa, Paraíba, Brazil",
+      "description": ""
+    },
+    {
+      "company": "Universidade Federal da Paraíba",
+      "title": "Postgraduate Researcher",
+      "period": {
+        "start": "April 2017",
+        "end": "October 2019"
+      },
+      "location": "João Pessoa, Paraíba, Brazil",
+      "description": "Built an Android mobile application for visually impaired people to listen to information contained in the Obras 4D system - a system with augmented reality for monitoring public works, developed by the Informatics Center of the Federal University of Paraíba in partnership with the Court of Auditors of Paraiba State."
+    },
+    {
+      "company": "Universidade Federal da Paraíba",
+      "title": "Web Software Developer",
+      "period": {
+        "start": "July 2014",
+        "end": "June 2016"
+      },
+      "location": "João Pessoa, Paraíba, Brazil",
+      "description": "- Developed the SistematX project - a secondary metabolites management system. - Created the Advanced Search feature, using Java and Javascript. That allows the user to draw the molecule's structure, which is converted to string in the IUPAC standard and searched in the database by similarity. Until that moment, no other University had a system with this feature."
+    }
+  ],
+  "educations": [
+    {
+      "school": "Universidade Federal da Paraíba",
+      "degree": "Master of Informatics",
+      "course": "Computer Science",
+      "period": {
+        "start": "2017",
+        "end": "2019"
+      }
+    },
+    {
+      "school": "Universidade Federal da Paraíba",
+      "degree": "Bachelor's degree",
+      "course": "Computer Science",
+      "period": {
+        "start": "2010",
+        "end": "2016"
+      }
+    }
+  ],
+  "contact": {
+    "email": "syudik12@gmail.com",
+    "linkedin": "www.linkedin.com/in/silasyudi"
+  },
+  "top_skills": [
+    "Java",
+    "Spring Boot",
+    "PHP"
+  ],
+  "languages": [
+    {
+      "name": "Portuguese",
+      "proficience": "Native or Bilingual",
+      "scale": 5
+    },
+    {
+      "name": "English",
+      "proficience": "Professional Working",
+      "scale": 3
+    }
+  ]
+}
